@@ -37,6 +37,8 @@ I wanted to create a challenge for both enteratainment and education .
 
 Commander-in-chief : Hello Agent R, Two hours ago we lost contact with agent (N.A.S.E.F). He was in a secret mission in the enemy state "SOURG". Your mission is to lead the task-force and bring him to our homeland safely, But first we need to hack into SOURG's satellites to locate both user and root flag which represents nasef's coordinates. Good Luck
 
+The mission involves hacking into SOURG's satellites to locate both the user and root flags, representing the coordinates of Agent N.A.S.E.F. The difficulty level is categorized as easy, and participants are required to download the challenge files to proceed.
+
 Difficulty : Easy
 
 ## Technologies
